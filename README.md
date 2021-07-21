@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Mq</h1>
-<h3 align="center">A passionate web developer , comics 📚, cinema 📽, photography 🎞 and heavy metal 🤘 </h3>
+<h3 align="center">A passionate web developer, comics 📚, cinema 📽, photography 🎞 and heavy metal 🤘 </h3>
 
 - 🌱 I’m currently learning **Javascript, Angular, NodeJS...**
 
