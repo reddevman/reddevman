@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Mq</h1>
 <h3 align="center">A passionate web developer, comics 📚, cinema 📽, photography 🎞 and heavy metal 🤘 </h3>
 
-- 🌱 I’m currently learning **Javascript, Angular, NodeJS...**
+- 🌱 I’m currently learning **Javascript, React, Angular, NodeJS...**
 
 - 💬 Ask me about **Everything, i'll try to answer 😁**
 
@@ -47,7 +47,7 @@
 	</a>
 	<a href="https://www.djangoproject.com/" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+			src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"
 			alt="django"
 			width="40"
 			height="40"
@@ -80,11 +80,19 @@
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+			src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
 			alt="javascript"
 			width="40"
 			height="40"
 		/>
+	</a>
+	<a href="https://es.reactjs.org/" target="_blank">
+	<img
+		src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+		alt="react"
+		width="40"
+		height="40"
+	/>
 	</a>
 	<a href="https://www.linux.org/" target="_blank">
 		<img
